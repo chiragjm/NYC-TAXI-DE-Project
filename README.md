@@ -53,18 +53,3 @@ This project is a comprehensive **Data Engineering solution** for analyzing NYC 
 
 ```
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📝 License
-
-This project is licensed under the MIT License.
-
-## 👨‍💻 Author
-
-[Chirag J M](https://github.com/chiragjm)
-
----
-
-**Last Updated**: February 24, 2026
